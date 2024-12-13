@@ -1,4 +1,4 @@
-# RoyalPaws
+# Royal Paws
 
 Royal Paws is a small, Reigns-like game where you play as the ruler of a Cat Kingdom.
 
