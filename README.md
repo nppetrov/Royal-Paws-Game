@@ -16,6 +16,6 @@ Please note that, due to the tight time constraints of the jam, most of the code
 
 For the most part, I'm using singleton managers to control the game states and properties.
 
-## Card content
+## Game Content
 
 You will find the existing content under ```Assets/_CSV```. There is an Editor Script in place for importing/updating cards via a context menu.
