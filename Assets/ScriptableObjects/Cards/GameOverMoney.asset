@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7668d0a6d0c526242968c0ab2a57602d, type: 3}
+  m_Name: GameOverMoney
+  m_EditorClassIdentifier: 
+  Name: GameOverMoney
+  Description: Meowjesty, the treasury lies barren, and the debts have devoured our
+    kingdom. Our coin has vanished, and with it, the loyalty of thy realm.
+  SpecialCard: 1
+  GameOverCard: 1
+  Character: {fileID: 11400000, guid: 34daca8fecaa42143a09126634a4abe9, type: 2}
+  CardVisual: {fileID: 0}
+  SequenceName: 
+  SequenceOrder: 0
+  ButtonLeftText: Nay, impossible!
+  ButtonRightText: But I am the [kingGender]!
+  AuthorityLeft: 0
+  MoneyLeft: 0
+  ArmyLeft: 0
+  PeopleLeft: 0
+  SequenceNextLeft: 0
+  AuthorityRight: 0
+  MoneyRight: 0
+  ArmyRight: 0
+  PeopleRight: 0
+  SequenceNextRight: 0

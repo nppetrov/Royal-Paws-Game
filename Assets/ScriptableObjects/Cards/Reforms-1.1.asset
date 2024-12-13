@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7668d0a6d0c526242968c0ab2a57602d, type: 3}
+  m_Name: Reforms-1.1
+  m_EditorClassIdentifier: 
+  Name: Reforms-1.1
+  Description: Meowjesty, I come not as a rebel, but as a humble servant of truth.
+    The kingdom's ways have grown heavy upon the common paws, their cries unheard,
+    their purrs unmet. I speak for justice and mercy, for fairness to all who dwell
+    beneath your rule. Change is needed, not to break the realm, but to mend it.
+    Hear my plea, Meowjesty, for the good of all catkind.
+  SpecialCard: 0
+  GameOverCard: 0
+  ThankYouCard: 0
+  Character: {fileID: 11400000, guid: ff7ea054a72f8084e865a1dc7fd715ee, type: 2}
+  CardVisual: {fileID: 0}
+  SequenceName: 1
+  SequenceOrder: 1
+  ButtonLeftText: Away with him!
+  ButtonRightText: The hour of reform is nigh!
+  AuthorityLeft: 2
+  MoneyLeft: 0
+  ArmyLeft: 0
+  PeopleLeft: -8
+  SequenceNextLeft: 0
+  AuthorityRight: -20
+  MoneyRight: -5
+  ArmyRight: 0
+  PeopleRight: 25
+  SequenceNextRight: 0

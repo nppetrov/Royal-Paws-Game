@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7668d0a6d0c526242968c0ab2a57602d, type: 3}
+  m_Name: IntroSequence-1
+  m_EditorClassIdentifier: 
+  Name: IntroSequence-1
+  Description: Meowjesty, I am General Sharpclaw, leader of your armies. Our iron
+    paws stand ready, as do I.
+  SpecialCard: 0
+  GameOverCard: 0
+  Character: {fileID: 11400000, guid: ea61deed32c4f31458ce690ee7c239a5, type: 2}
+  CardVisual: {fileID: 0}
+  SequenceName: IntroSequence
+  SequenceOrder: 1
+  ButtonLeftText: Good.
+  ButtonRightText: Well met, Commander.
+  AuthorityLeft: 0
+  MoneyLeft: 0
+  ArmyLeft: 0
+  PeopleLeft: 0
+  SequenceNextLeft: 2
+  AuthorityRight: 0
+  MoneyRight: 0
+  ArmyRight: 0
+  PeopleRight: 0
+  SequenceNextRight: 2

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7668d0a6d0c526242968c0ab2a57602d, type: 3}
+  m_Name: Bard
+  m_EditorClassIdentifier: 
+  Name: Bard
+  Description: Meowjesty, we had reports of a famed bard who travels the land, singing
+    of our battles. Yet his tales bring mirth, not valour; jest, not glory. He speaks
+    of our troops as more fur than fury.
+  SpecialCard: 0
+  GameOverCard: 0
+  ThankYouCard: 0
+  Character: {fileID: 11400000, guid: 8f1fa182161ff7b4294b2f3b0e5e54fa, type: 2}
+  CardVisual: {fileID: 0}
+  SequenceName: 
+  SequenceOrder: 0
+  ButtonLeftText: Relieve him of his meddling tongue.
+  ButtonRightText: His words are nothing but a harmless fluff.
+  AuthorityLeft: 5
+  MoneyLeft: 0
+  ArmyLeft: 5
+  PeopleLeft: -15
+  SequenceNextLeft: 0
+  AuthorityRight: -5
+  MoneyRight: 0
+  ArmyRight: -15
+  PeopleRight: 0
+  SequenceNextRight: 0

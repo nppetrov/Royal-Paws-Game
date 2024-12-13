@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7668d0a6d0c526242968c0ab2a57602d, type: 3}
+  m_Name: ThankYou
+  m_EditorClassIdentifier: 
+  Name: ThankYou
+  Description: 'Thank you for playing my game!
+
+
+    That was only a short excerpt
+    of Royal Paws. More features and content are planned for the next development
+    phase, as well as better graphics.
+
+    To restart, please hit any of the buttons
+    below.'
+  SpecialCard: 1
+  GameOverCard: 0
+  ThankYouCard: 1
+  Character: {fileID: 0}
+  CardVisual: {fileID: 11400000, guid: 167f298cc01e5844b9525ad0f0534121, type: 2}
+  SequenceName: 
+  SequenceOrder: 0
+  ButtonLeftText: Nine lives, eh?
+  ButtonRightText: A fresh start, Meowjesty.
+  AuthorityLeft: 0
+  MoneyLeft: 0
+  ArmyLeft: 0
+  PeopleLeft: 0
+  SequenceNextLeft: 0
+  AuthorityRight: 0
+  MoneyRight: 0
+  ArmyRight: 0
+  PeopleRight: 0
+  SequenceNextRight: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7668d0a6d0c526242968c0ab2a57602d, type: 3}
+  m_Name: TradingGuilds-5.1
+  m_EditorClassIdentifier: 
+  Name: TradingGuilds-5.1
+  Description: The guild of catnip traders demands special privileges, threatening
+    to cease trade otherwise.
+  SpecialCard: 0
+  GameOverCard: 0
+  ThankYouCard: 0
+  Character: {fileID: 11400000, guid: 34daca8fecaa42143a09126634a4abe9, type: 2}
+  CardVisual: {fileID: 0}
+  SequenceName: 5
+  SequenceOrder: 1
+  ButtonLeftText: It shall not be so.
+  ButtonRightText: Grant their wishes.
+  AuthorityLeft: 5
+  MoneyLeft: -15
+  ArmyLeft: 0
+  PeopleLeft: -10
+  SequenceNextLeft: 0
+  AuthorityRight: -10
+  MoneyRight: 5
+  ArmyRight: 0
+  PeopleRight: -5
+  SequenceNextRight: 0
