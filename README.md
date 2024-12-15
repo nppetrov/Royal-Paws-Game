@@ -1,5 +1,7 @@
 # Royal Paws
 
+Preview: https://ninjachompek.itch.io/royal-paws
+
 Royal Paws is a small, Reigns-like game where you play as the ruler of a Cat Kingdom.
 
 Every decision you make will affect one or more of the pillars of your kingdom - your authority, wealth, army, and the support of the common paws.
